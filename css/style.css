@@ -1,0 +1,28 @@
+body
+{
+    background-color: #f5efe3;
+}
+
+hr
+{
+    border-style: dotted none none;
+   /* border-top-style: dotted;*/
+    border-color: #85a392;
+    border-width: 5px ;
+    width: 10%;
+}
+
+h1 {
+    color: #85a392;
+}
+
+h3  {
+    color: #85a392;
+}
+
+
+.hotBeverage
+{
+    width: 30px;
+    height:30px ;
+}
