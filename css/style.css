@@ -38,6 +38,7 @@ h2
 {   
     background-color: #f5efe3;
     padding: 50px 50px 0;
+    position :relative;
     
 }
 .bottom-container
@@ -45,4 +46,53 @@ h2
     background-color: #f5efe3;
     margin: 0;
     padding: 50px;
+}
+.top-cloud
+{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    right : 300px;
+    top: 50px;
+}
+.bottom-cloud
+{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.Profile-Picture
+{
+    border-radius: 100%;
+    width:  150px;
+    height: 150px;
+    margin: 50px;
+}
+.sun-image
+{
+    height: 400px;
+    width:  400px;
+    margin-bottom:0 ;
+}
+.skill-row
+{
+    width: 50%;
+    margin:100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+
+.programmer-image 
+{
+width: 25%;
+float: left;
+margin-right: 50px;
+}
+.guitar-image
+{
+width: 25%;
+float: right;
+margin-left: 50px;
 }
