@@ -1,123 +1,104 @@
 body {
-    margin:0;
-    text-align: center;   
-    font-family: 'Merriweather', serif;
-    color: #4d3e3e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #4d3e3e;
 }
 
-hr
-{
-    border-style: dotted none none;
-   /* border-top-style: dotted;*/
-    border-color: #85a392;
-    border-width: 5px ;
-    width: 5%;
-    margin-bottom : 50px ;
+hr {
+  border-style: dotted none none;
+  /* border-top-style: dotted;*/
+  border-color: #85a392;
+  border-width: 5px;
+  width: 5%;
+  margin-bottom: 50px;
 }
 
 h1 {
-    font-size: 3rem;
-    font-weight: bolder;
-    color: #f78259;
-    margin: 50px auto 0 auto;
-    font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  font-weight: bolder;
+  color: #f78259;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
 }
-h3  {
-    margin: 0 auto 50px;
-    color: #f78259;
-    font-family: 'Montserrat', sans-serif;
-   
+h3 {
+  margin: 0 auto 50px;
+  color: #f78259;
+  font-family: 'Montserrat', sans-serif;
 }
-h2
-{
-    
-    font-family: 'Montserrat', sans-serif;
-    color: #f78259;
-    margin: 0 auto 50px auto;
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #f78259;
+  margin: 0 auto 50px auto;
 }
-a
-{
-    color: #f78259;
-    margin: 50px;
+a {
+  color: #f78259;
+  margin: 50px;
 }
-p 
-{
-    font-family: 'Montserrat', sans-serif;
+p {
+  font-family: 'Montserrat', sans-serif;
 }
-.top-container
-{   
-    background-color: #f5efe3;
-    padding: 50px 50px 0;
-    position :relative;
-    
+.top-container {
+  background-color: #f5efe3;
+  padding: 50px 50px 0;
+  position: relative;
 }
-.profile 
-{
-    margin-bottom: 50px;
+.profile {
+  margin-bottom: 50px;
 }
-.bottom-container
-{
-    background-color: #f5efe3;
-    margin: 0;
-    padding: 50px;
+.bottom-container {
+  background-color: #f5efe3;
+  margin: 0;
+  padding: 50px;
 }
-.top-cloud
-{
-    height: 80px;
-    width: 80px;
-    position: absolute;
-    right : 300px;
-    top: 50px;
+.top-cloud {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
 }
-.bottom-cloud
-{
-    height: 80px;
-    width: 80px;
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
+.bottom-cloud {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
 }
-.Profile-Picture
-{
-    border-radius: 100%;
-    width:  150px;
-    height: 150px;
-    margin: 50px;
+.Profile-Picture {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  margin: 50px;
 }
-.sun-image
-{
-    height: 400px;
-    width:  400px;
-    margin-bottom:0 ;
+.sun-image {
+  height: 400px;
+  width: 400px;
+  margin-bottom: 0;
 }
-.skill-row
-{
-    width: 50%;
-    margin:100px auto ;
-    text-align: left;
-    line-height: 2;
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
 }
 
-.programmer-image 
-{
-width: 25%;
-float: left;
-margin-right: 50px;
+.programmer-image {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
 }
-.guitar-image
-{
-width: 25%;
-float: right;
-margin-left: 50px;
+.guitar-image {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
 }
 
-.contact-me
-{
-    padding: 50px;
-    text-align: center;
+.contact-me {
+  padding: 50px;
+  text-align: center;
 }
-.contact-me-description
-{
-   width: 400px;
-   margin: auto;
+.contact-me-description {
+  width: 400px;
+  margin: auto;
 }
